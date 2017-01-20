@@ -1,3 +1,8 @@
 Nitith Chayakul
 
-This is a part of a taining.
+## Summery of Git command
+
+* git init - create a new repository
+* git status - compare working directory with repository
+* git add - mask files to be add
+* git commit --m "something" - commit changed
