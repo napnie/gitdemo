@@ -1,0 +1,6 @@
+# ignore compile output
+bin/
+build/
+*.class
+*.tmp
+*.swp
